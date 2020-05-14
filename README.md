@@ -26,7 +26,7 @@ Overlapping roles are allowed when you think it's reasonable!
          <th>Experts helpers</th>
 </tr>
 <tr>
-  <th>21.may (Th) 13-14 CEST</th>
+  <th>20.may (Th) 14-15 CEST</th>
          <td>installation help<br>
 	     </td>
          <td>rkdarst</td><!--host-->
