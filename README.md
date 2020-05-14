@@ -45,7 +45,7 @@ Overlapping roles are allowed when you think it's reasonable!
   <th>25.may (M)</th>
          <td>intro: rkdarst<br>
 		     git-intro 1/2: bast<br>
-		     git-intro 2/2: <br>
+		     git-intro 2/2: Stefan<br>
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
@@ -80,7 +80,7 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 <tr>
   <th>3.june (W)</th>
-         <td>documentation:  <br>
+         <td>documentation:  Stefan<br>
 	      jupyter: Thor <br>
 	     </td>
          <td>rkdarst</td><!--host-->
