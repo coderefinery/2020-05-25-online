@@ -39,7 +39,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td>-</td><!--hackmd-->
-         <td>Jarno, name, name, Radovan</td><!--expert helpers-->
+         <td>Jarno, Enrico, name, Radovan</td><!--expert helpers-->
 </tr>
 <tr>
   <th>25.may (M)</th>
@@ -49,7 +49,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td>Raphaela Heil</td><!--expert helpers-->
+         <td>Raphaela Heil, Enrico</td><!--expert helpers-->
 </tr>
 <tr>
   <th>26.may (T)</th>
@@ -76,7 +76,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
-         <td>Jarno, Radovan</td><!--expert helpers-->
+         <td>Jarno, Radovan, Enrico</td><!--expert helpers-->
 </tr>
 <tr>
   <th>3.june (W)</th>
@@ -85,7 +85,7 @@ Overlapping roles are allowed when you think it's reasonable!
 	     </td>
          <td>rkdarst</td><!--host-->
          <td>Radovan</td><!--hackmd-->
-         <td>Jarno, Radovan</td><!--expert helpers-->
+         <td>Jarno, Radovan, Enrico</td><!--expert helpers-->
 </tr>
 <tr>
   <th>4.june (Th)</th>
