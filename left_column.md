@@ -103,8 +103,10 @@ European Summer Time.  [Convert 9:00 CEST to your time zone](https://arewemeetin
 
 The schedule is subject to change.
 
-Pre-workshop installation help and verification times (see above)
-- 21.may (Th) 13-14 CEST
+**Pre-workshop installation help** and verification times (see above)
+- Join anytime during this (preferably not everyone at the very start
+  and end)
+- 20.may (Th) 14-15 CEST
 - 22.may (F)  13-14 CEST
 
 
