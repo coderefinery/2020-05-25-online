@@ -77,14 +77,15 @@ behind.
 Note that, e.g., a working Python executable on your laptop is not sufficient -
 a version greater than 3.4 is strongly recommended and a number of extra
 packages need to be installed as detailed on the Python installation
-page.  **You also need to check your git configuration.**  **If you
+page.  **You also need to check your git configuration** [video about
+git config](https://www.youtube.com/watch?v=WdDTp8NeHBs&list=PLpLblYHCzJACyKCfHnPwRruOxllNoHsEg).  **If you
 have an institutional laptop with limited rights, start in advance
 and/or ask for help to translate these instructions to work on your system.**
 
 - [Bash](https://coderefinery.github.io/installation/bash/)
 - [Editor](https://coderefinery.github.io/installation/editors/)
 - [Git](https://coderefinery.github.io/installation/git/), including
-  some configuration
+  some **configuration**
 - [(optional) Visual diff tools](https://coderefinery.github.io/installation/difftools/)
 - [Python](https://coderefinery.github.io/installation/python/)
 - [Jupyter and JupyterLab](https://coderefinery.github.io/installation/jupyter)
@@ -101,7 +102,7 @@ European Summer Time.  [Convert 9:00 CEST to your time zone](https://arewemeetin
 
 The schedule is subject to change.
 
-Pre-workshop installation help and verification times (see above)
+**Pre-workshop installation help** and verification times (see above)
 - 21.may (Th) 13-14 CEST
 - 22.may (F)  13-14 CEST
 
