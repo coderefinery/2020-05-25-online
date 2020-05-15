@@ -90,6 +90,8 @@ and/or ask for help to translate these instructions to work on your system.**
 - [Python](https://coderefinery.github.io/installation/python/)
 - [Jupyter and JupyterLab](https://coderefinery.github.io/installation/jupyter)
 - [Snakemake](https://coderefinery.github.io/installation/snakemake)
+- University computer specific instructions:
+  - [Aalto University](https://scicomp.aalto.fi/news/coderefinery/)
 
 **You should either a) drop by one of our verification sessions in
 advance, or b) verify with your team's helper before the workshop.**
@@ -103,7 +105,9 @@ European Summer Time.  [Convert 9:00 CEST to your time zone](https://arewemeetin
 The schedule is subject to change.
 
 **Pre-workshop installation help** and verification times (see above)
-- 21.may (Th) 13-14 CEST
+- Join anytime during this (preferably not everyone at the very start
+  and end)
+- 20.may (W) 14-15 CEST
 - 22.may (F)  13-14 CEST
 
 
