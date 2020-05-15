@@ -58,7 +58,6 @@ language-independent as possible but we will show some basic code examples in
 Python.
 
 
-
 ### Prerequisites
 
 - You should be able to navigate the file tree in a terminal session and edit
@@ -72,7 +71,9 @@ Python.
   the basics anyway, but please go through
   [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
   for a basic overview and important configuration steps.
-- Make sure that git is configured, and verify the configuration: [text intro](https://coderefinery.github.io/installation/git/#configuring-git), [video intro](https://www.youtube.com/watch?v=WdDTp8NeHBs&t=258s).
+- Make sure that git is configured, and verify the configuration:
+  [text instructions](https://coderefinery.github.io/installation/git/#configuring-git),
+  [video](https://www.youtube.com/watch?v=WdDTp8NeHBs&t=258s).
 
 ### Instructors
 

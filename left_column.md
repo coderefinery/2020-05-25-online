@@ -77,9 +77,9 @@ behind.
 Note that, e.g., a working Python executable on your laptop is not sufficient -
 a version greater than 3.4 is strongly recommended and a number of extra
 packages need to be installed as detailed on the Python installation
-page.  **You also need to check your git configuration** [video about
-git config](https://www.youtube.com/watch?v=WdDTp8NeHBs&list=PLpLblYHCzJACyKCfHnPwRruOxllNoHsEg).  **If you
-have an institutional laptop with limited rights, start in advance
+page.  **You also need to check your git configuration**
+([video: how to configure Git](https://www.youtube.com/watch?v=WdDTp8NeHBs&list=PLpLblYHCzJACyKCfHnPwRruOxllNoHsEg)).
+**If you have an institutional laptop with limited rights, start in advance
 and/or ask for help to translate these instructions to work on your system.**
 
 - [Bash](https://coderefinery.github.io/installation/bash/)
