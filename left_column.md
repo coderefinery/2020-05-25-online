@@ -110,7 +110,7 @@ The schedule is subject to change.
 **Pre-workshop installation help** and verification times (see above)
 - Join anytime during this (preferably not everyone at the very start
   and end)
-- 20.may (W) 14-15 CEST
+- 20.may (W) 14-15 CEST  (mistake in email: it is actually Wednesday)
 - 22.may (F)  13-14 CEST
 
 
