@@ -13,8 +13,8 @@ target="_blank">We are full, see below</a>
   issue](https://github.com/coderefinery/2020-05-25-online/issues/25).
 
 * **Wrong day-of-the-week in emails:**  Emails said a pre-workshop
-  install help time was on Thursday 20.may.  It are *Wednesday*
-  20.may. (and Friday, see below).
+  install help time was on Thursday 20.may.  It is *Wednesday*
+  20.may (and Friday, see below).
 
 * **Please carefully check installation, configuration, and verification
   instructions.**  Trust us.
