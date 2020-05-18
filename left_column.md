@@ -5,36 +5,19 @@
 <a class="btn btn-danger disabled" href="#" data-mode="1"
 target="_blank">We are full, see below</a>
 
-**We are full with over 130 people!  We will try to make more spaces
-available by live
-streaming.  Helpers are still needed and can still register, see
-below.**  This is a developing situation
-(2020-05-13), please check back for more information.
+**News:**
 
-* **We still need helpers**, they may still register <a href="https://indico.neic.no/event/141/registrations/66/">here</a>.
+* **Initial acceptances have been sent out**.  We have accepted over
+  120 people.  You can follow announcements to attendees and minor
+  updates [at this Github
+  issue](https://github.com/coderefinery/2020-05-25-online/issues/25).
 
-* **I'm part of a team, some people had time to register but some
-  didn't.**  Contact us by email (below) and we'll help.
+* **Wrong day-of-the-week in emails:**  Emails said a pre-workshop
+  install help time was on Thursday 20.may.  It are *Wednesday*
+  20.may. (and Friday, see below).
 
-* **Is there any way I can follow along?**  We'll try to live stream
-  it, see below.  The experience won't be the same, but we do what we
-  can.
-
-* **If it's online, why did you close?**  CodeRefinery workshops are
-  interactive, with lots of interaction between instructors, helpers,
-  and learners.  We can scale one-to-many easily, but we reached the
-  limits of an interactive format.
-
-* **When are registrations approved?**  We will look through number
-  of attendees and number of helpers, and accept who we can and direct
-  the rest to the live stream.
-
-* **How can I be notified of updates?**  Currently, we don't have any
-  way.  Follow [@coderefine](https://twitter.com/coderefine) on
-  Twitter.
-
-Please see information at right for registration options: learner or
-helper, and individual or as a team.
+* **Please carefully check installation, configuration, and verification
+  instructions.**  Trust us.
 
 Because of our Nordic funding, priority is for Nordic participants.
 This is the first Mega-CodeRefinery, so we reserve the right to make

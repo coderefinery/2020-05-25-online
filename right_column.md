@@ -119,6 +119,26 @@ Python.
   possible, you will get much more out of the workshop if you are a
   part of it.
 
+* **Is there any way I can follow along?**  We'll try to live stream
+  it, see below.  The experience won't be the same, but we do what we
+  can.
+
+* **If it's online, why did you close?**  CodeRefinery workshops are
+  interactive, with lots of interaction between instructors, helpers,
+  and learners.  We can scale one-to-many easily, but we reached the
+  limits of an interactive format.
+
+* **When are registrations approved?**  We will look through number
+  of attendees and number of helpers, and accept who we can and direct
+  the rest to the live stream.
+
+* **How can I be notified of updates?**  Currently, we don't have any
+  way.  Follow [@coderefine](https://twitter.com/coderefine) on
+  Twitter.
+
+* **We still need helpers**, they may still register <a href="https://indico.neic.no/event/141/registrations/66/">here</a>.
+
+
 
 ## Streaming info
 
