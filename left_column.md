@@ -98,10 +98,10 @@ The schedule is subject to change.
 
 
 **25 May (M)**
-- 9:00 - 9:30
+- 9:00 - 9:20
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (Radovan)
-- 9:30 - 12:00
+- 9:20 - 12:00
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
   (Radovan/Stefan)
 
