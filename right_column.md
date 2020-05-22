@@ -77,7 +77,12 @@ Python.
 
 ### Instructors
 
-- TBA
+- Radovan Bast
+- Anne Fouilloux
+- Bjørn Lindi
+- Thor Wikfeldt
+- Stefan Negru
+
 
 
 ### Helpers

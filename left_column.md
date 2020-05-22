@@ -100,10 +100,10 @@ The schedule is subject to change.
 **25 May (M)**
 - 9:00 - 9:30
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
+  (Radovan)
 - 9:30 - 12:00
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
-  (TBA)
+  (Radovan/Stefan)
 
 
 **26 May (T)**
@@ -112,40 +112,43 @@ The schedule is subject to change.
   (TBA)
 - 11:30 - 12:00
   [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
+  (Radovan, Bjørn)
 
 
 **27 May (W)**
 - 9:00 - 12:00
   [Collaborative distributed version control 2/2](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
+  (Radovan, Bjørn)
 
 
 **2 June (T)**
+- 9:00 - 9:15
+  [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
+  (Thor)
 - 9:00 - 11:00
   [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
-  (TBA)
+  (Thor)
 - 11:00 - 12:00
   [Social coding and open software](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/social-coding/master/talk.md)
-  (TBA)
+  (Anne)
 
 
 **3 June (W)**
 - 9:00 - 10:30
   [Documentation](https://coderefinery.github.io/documentation/)
-  (TBA)
+  (Stefan)
 - 10:30 - 12:00
   [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
+  (Thor)
 
 
 **4 June (Th)**
 - 9:00 - 10:30
   [Automated testing](https://coderefinery.github.io/testing/)
-  (TBA)
+  (Bjørn)
 - 10:45 - 11:45
   [Modular code development](https://github.com/coderefinery/modular-type-along)
-  (TBA)
+  (Radovan)
 - 11:45 - 12:00
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
   (TBA)
