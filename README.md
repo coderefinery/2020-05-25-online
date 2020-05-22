@@ -28,7 +28,7 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>20.may (W) 14-15 CEST</th>
          <td>installation help<br>
-	     </td>
+             </td>
          <td>rkdarst</td><!--host-->
          <td>-</td><!--hackmd-->
          <td>Jarno, name, name, Radovan</td><!--expert helpers-->
@@ -36,7 +36,7 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>22.may (F) 13-14 CEST</th>
          <td>installation help<br>
-	     </td>
+             </td>
          <td>rkdarst</td><!--host-->
          <td>-</td><!--hackmd-->
          <td>Jarno, Enrico, name, Radovan</td><!--expert helpers-->
@@ -44,26 +44,28 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>25.may (M)</th>
          <td>intro: Radovan<br>
-		     git-intro 1/2: Radovan<br>
-		     git-intro 2/2: Stefan<br>
-	     </td>
+             git-intro motivation: Radovan<br>
+             git-intro rest: Stefan<br>
+             </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
          <td>Raphaela Heil, Enrico</td><!--expert helpers-->
 </tr>
 <tr>
   <th>26.may (T)</th>
-         <td>git-intro: <br>
+         <td>git-intro branches and merging: Anne<br>
              git-intro history inspection: Radovan<br>
-	     </td>
+             sharing repositories: Radovan<br>
+             </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
          <td>Jarno, Raphaela Heil</td><!--expert helpers-->
 </tr>
 <tr>
   <th>27.may (W)</th>
-         <td>git-collab: Radovan, bjørn (forking)<br>
-	     </td>
+         <td>sharing repos and centralized workflow: Radovan<br>
+             git-collab forking: Bjørn<br>
+             </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
          <td>Jarno, Raphaela Heil</td><!--expert helpers-->
@@ -71,18 +73,18 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>2.june (T)</th>
          <td>intro: Thor<br>
-		     reproducible-research: Thor <br>
-		     social-coding: annefou<br>
-	     </td>
+             reproducible-research: Thor <br>
+             social-coding: annefou<br>
+             </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
          <td>Jarno, Radovan, Enrico</td><!--expert helpers-->
 </tr>
 <tr>
   <th>3.june (W)</th>
-         <td>documentation:  Stefan<br>
-	      jupyter: Thor <br>
-	     </td>
+         <td>documentation: Stefan<br>
+             jupyter: Thor <br>
+             </td>
          <td>rkdarst</td><!--host-->
          <td>Radovan</td><!--hackmd-->
          <td>Jarno, Radovan, Enrico</td><!--expert helpers-->
@@ -90,9 +92,9 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>4.june (Th)</th>
          <td>testing: bjørn<br>
-		     modular code development: Radovan<br>
-		     outro: <br>
-	     </td>
+             modular code development: Radovan<br>
+             outro: Richard<br>
+             </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
          <td>Jarno, Juho</td><!--expert helpers-->
