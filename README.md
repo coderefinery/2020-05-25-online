@@ -44,8 +44,8 @@ Overlapping roles are allowed when you think it's reasonable!
 <tr>
   <th>25.may (M)</th>
          <td>intro: Radovan<br>
-             git-intro 1/2: Radovan<br>
-             git-intro 2/2: Stefan<br>
+             git-intro motivation: Radovan<br>
+             git-intro rest: Stefan<br>
              </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
@@ -53,8 +53,9 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 <tr>
   <th>26.may (T)</th>
-         <td>git-intro: <br>
+         <td>git-intro branches and merging: Anne<br>
              git-intro history inspection: Radovan<br>
+             sharing repositories: Radovan<br>
              </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
@@ -62,7 +63,8 @@ Overlapping roles are allowed when you think it's reasonable!
 </tr>
 <tr>
   <th>27.may (W)</th>
-         <td>git-collab: Radovan, bjørn (forking)<br>
+         <td>sharing repos and centralized workflow: Radovan<br>
+             git-collab forking: Bjørn<br>
              </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
@@ -91,7 +93,7 @@ Overlapping roles are allowed when you think it's reasonable!
   <th>4.june (Th)</th>
          <td>testing: bjørn<br>
              modular code development: Radovan<br>
-             outro: <br>
+             outro: Richard<br>
              </td>
          <td>rkdarst</td><!--host-->
          <td></td><!--hackmd-->
