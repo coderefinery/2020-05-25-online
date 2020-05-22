@@ -47,8 +47,8 @@ Overlapping roles are allowed when you think it's reasonable!
              git-intro motivation: Radovan<br>
              git-intro rest: Stefan<br>
              </td>
-         <td>rkdarst</td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Naoe</td><!--host-->
+         <td>rkdarst</td><!--hackmd-->
          <td>Raphaela Heil, Enrico</td><!--expert helpers-->
 </tr>
 <tr>
@@ -57,8 +57,8 @@ Overlapping roles are allowed when you think it's reasonable!
              git-intro history inspection: Radovan<br>
              sharing repositories: Radovan<br>
              </td>
-         <td>rkdarst</td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Naoe</td><!--host-->
+         <td>rkdarst</td><!--hackmd-->
          <td>Jarno, Raphaela Heil</td><!--expert helpers-->
 </tr>
 <tr>
@@ -66,8 +66,8 @@ Overlapping roles are allowed when you think it's reasonable!
          <td>sharing repos and centralized workflow: Radovan<br>
              git-collab forking: Bjørn<br>
              </td>
-         <td>rkdarst</td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Naoe</td><!--host-->
+         <td>rkdarst</td><!--hackmd-->
          <td>Jarno, Raphaela Heil</td><!--expert helpers-->
 </tr>
 <tr>
@@ -76,8 +76,8 @@ Overlapping roles are allowed when you think it's reasonable!
              reproducible-research: Thor <br>
              social-coding: annefou<br>
              </td>
-         <td>rkdarst</td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Naoe</td><!--host-->
+         <td>rkdarst</td><!--hackmd-->
          <td>Jarno, Radovan, Enrico</td><!--expert helpers-->
 </tr>
 <tr>
@@ -85,7 +85,7 @@ Overlapping roles are allowed when you think it's reasonable!
          <td>documentation: Stefan<br>
              jupyter: Thor <br>
              </td>
-         <td>rkdarst</td><!--host-->
+         <td>Naoe</td><!--host-->
          <td>Radovan</td><!--hackmd-->
          <td>Jarno, Radovan, Enrico</td><!--expert helpers-->
 </tr>
@@ -95,8 +95,8 @@ Overlapping roles are allowed when you think it's reasonable!
              modular code development: Radovan<br>
              outro: Richard<br>
              </td>
-         <td>rkdarst</td><!--host-->
-         <td></td><!--hackmd-->
+         <td>Naoe</td><!--host-->
+         <td>rkdarst, Radovan</td><!--hackmd-->
          <td>Jarno, Juho</td><!--expert helpers-->
 </tr>
 </table>
