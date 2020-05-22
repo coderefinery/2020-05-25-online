@@ -103,16 +103,16 @@ The schedule is subject to change.
   (Radovan)
 - 9:20 - 12:00
   [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
-  (Radovan/Stefan)
+  (Radovan, Stefan)
 
 
 **26 May (T)**
 - 9:00 - 11:30
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/)
-  (TBA)
+  (Anne)
 - 11:30 - 12:00
   [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/)
-  (Radovan, Bjørn)
+  (Radovan)
 
 
 **27 May (W)**
@@ -151,7 +151,7 @@ The schedule is subject to change.
   (Radovan)
 - 11:45 - 12:00
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (TBA)
+  (Richard)
 
 
 ### Location
