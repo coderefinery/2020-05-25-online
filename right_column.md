@@ -147,10 +147,13 @@ Python.
 
 ## Streaming info
 
-We will try to live stream the course so that others, who did not have
-time to register, will be able to follow along.
+We will live stream the course so that others, who did not have
+time to register, will be able to follow along.  However, this is
+best-effort and we will stop streaming if it seem unworkable.
 
-**Check back for more information,** including set-up instructions.
+**Check back for more information,** (over the weekend) including
+set-up instructions.  We will stream at
+<https://www.twitch.tv/coderefinery>.
 
 Advice on following the stream:
 
@@ -172,17 +175,19 @@ Advice on following the stream:
 * You can interact on the **livestream chat**, but we don't promise to
   be able to watch it.
 
-* Currently you **can't register or sign up for announcements** (for
-  the streaming) - keep checking this webpage
-  for details.  All news will be updated here.  Follow
+* **Announcements and updates** go to [this Github
+  issue](https://github.com/coderefinery/2020-05-25-online/issues/25).
+  You can subscribe to it for notifications, but there is no other way
+  to sign up for info - also keep checking this webpage
+  for details.  Follow
   [@coderefine](https://twitter.com/coderefine) on Twitter for news,
   too.
 
 * We don't know what lessons we will stream yet.  We hope to all, but
   will see about practicalities.
 
-* We don't know what streaming platform we will use (yet), but quite
-  likely Twitch.
+* We stream on Twitch, and there should be someone interacting with
+  the Twitch chat to provide some support.
 
 * **Come to an in-person workshop sometime.**  The stream probably
   can't replace the experience and individual help you get in person.

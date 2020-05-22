@@ -7,14 +7,13 @@ target="_blank">We are full, see below</a>
 
 **News:**
 
-* **Initial acceptances have been sent out**.  We have accepted over
-  120 people.  You can follow announcements to attendees and minor
-  updates [at this Github
+* **If you haven't gotten our emails this week about attendee info (or
+  waitlisting), contact us.** You can follow announcements to
+  attendees and minor updates [at this Github
   issue](https://github.com/coderefinery/2020-05-25-online/issues/25).
 
-* **Wrong day-of-the-week in emails:**  Emails said a pre-workshop
-  install help time was on Thursday 20.may.  It is *Wednesday*
-  20.may (and Friday, see below).
+* **Yes, we will be streamed!** See the right column and
+  <https://www.twitch.tv/coderefinery>.
 
 * **Please carefully check installation, configuration, and verification
   instructions.**  Trust us.
