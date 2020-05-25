@@ -75,6 +75,10 @@ Python.
   [text instructions](https://coderefinery.github.io/installation/git/#configuring-git),
   [video](https://www.youtube.com/watch?v=WdDTp8NeHBs&t=258s).
 
+
+### Host
+- Naoe Tatara
+
 ### Instructors
 
 - Radovan Bast
@@ -82,22 +86,28 @@ Python.
 - Bjørn Lindi
 - Thor Wikfeldt
 - Stefan Negru
+- Richard Darst
 
 
+### Expert helpers
+
+- Enrico Glerean
+- Jarno Rantaharju
+- Juho Lehtonen
+- Raphaela Heil
+- Sabry Razick
 
 ### Helpers
 
 ([tips for helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md))
 
-- TBA
-
 
 ### FAQ
 
-* **Why should I come as a team?**  If you will work together later,
+- **Why should I come as a team?**  If you will work together later,
   learning the tools at the same time is a great way to do it.
 
-* **Am I good enough to be a helper?**  If you are asking this
+- **Am I good enough to be a helper?**  If you are asking this
   question, probably you are.  You should have some familiarity with
   git, provide some initial advice on obvious error messages, and
   be able to call us for advanced help when it's needed.
