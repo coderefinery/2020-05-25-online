@@ -107,6 +107,7 @@ and would like to be listed here, let us know.
 - Francesco Tabaro
 - Luis Amezcua
 - Mikael Djurfeldt
+- Mikko Heikkilä
 - Pengfei Xu
 - Raphaela Heil
 - Rohit Goswami
