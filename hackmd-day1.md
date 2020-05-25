@@ -1,3 +1,8 @@
+---
+permalink: /hackmd-day1/
+---
+
+
 # CodeRefinery 25.may-4.jun
 
 
