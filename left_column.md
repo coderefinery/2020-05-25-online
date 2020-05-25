@@ -106,16 +106,16 @@ The schedule is subject to change.
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (Radovan)
 - 9:20 - 12:00
-  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
+  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
   (Radovan, Stefan)
 
 
 **26 May (T)**
 - 9:00 - 11:30
-  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/)
+  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
   (Anne)
 - 11:30 - 12:00
-  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/)
+  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/) (probably moved to tomorrow)
   (Radovan)
 
 
