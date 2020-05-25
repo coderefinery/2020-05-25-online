@@ -7,10 +7,15 @@ target="_blank">We are full, see below</a>
 
 **News:**
 
-* **If you haven't gotten our emails this week about attendee info (or
-  waitlisting), contact us.** You can follow announcements to
-  attendees and minor updates [at this Github
+* **See day 1 news** [at this Github
   issue](https://github.com/coderefinery/2020-05-25-online/issues/25).
+
+* **HackMD notes are available, see [the bottom of the
+  page](#questions-answers-and-feedback).
+
+* **Videos are currently available** [on
+  twitch](https://www.twitch.tv/coderefinery/videos) for 14 days.
+  They will be moved to YouTube.
 
 * **Yes, we will be streamed!** See the right column and
   <https://www.twitch.tv/coderefinery>.
@@ -101,16 +106,16 @@ The schedule is subject to change.
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (Radovan)
 - 9:20 - 12:00
-  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/)
+  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
   (Radovan, Stefan)
 
 
 **26 May (T)**
 - 9:00 - 11:30
-  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/)
+  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
   (Anne)
 - 11:30 - 12:00
-  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/)
+  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/) (probably moved to tomorrow)
   (Radovan)
 
 
@@ -156,7 +161,7 @@ The schedule is subject to change.
 ### Location
 
 The workshop will be held online, participant links will be sent to
-registered participants.
+registered participants.  Also streamed at [https://twitch.tv/coderefinery]
 
 
 ### Price
