@@ -88,18 +88,36 @@ Python.
 - Stefan Negru
 - Richard Darst
 
-
 ### Expert helpers
 
 - Enrico Glerean
 - Jarno Rantaharju
 - Juho Lehtonen
-- Raphaela Heil
 - Sabry Razick
 
 ### Helpers
 
-([tips for helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md))
+([Tips for
+helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md)).
+25 helpers are making this CodeRefinery possible.  If you are a helper
+and would like to be listed here, let us know.
+
+- Daniel Holmberg
+- Ebrahim Afyounian
+- Erika Yashiro
+- Francesco Tabaro
+- Joakim Löfgren
+- Luis Amezcua
+- Mikael Djurfeldt
+- Mikko Heikkilä
+- Pengfei Xu
+- Raphaela Heil
+- Rohit Goswami
+- Samantha Wittke
+- Sebastian Schmidt
+- Tomi Häkkinen
+- Tuomas Rossi
+- Ygor Morais Jaques
 
 
 ### FAQ
