@@ -103,6 +103,7 @@ helpers](https://github.com/coderefinery/manuals/blob/master/helping-and-teachin
 and would like to be listed here, let us know.
 
 - Daniel Holmberg
+- Ebrahim Afyounian
 - Erika Yashiro
 - Francesco Tabaro
 - Joakim Löfgren
