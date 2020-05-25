@@ -117,6 +117,7 @@ and would like to be listed here, let us know.
 - Sebastian Schmidt
 - Tomi Häkkinen
 - Tuomas Rossi
+- Ygor Morais Jaques
 
 
 ### FAQ
