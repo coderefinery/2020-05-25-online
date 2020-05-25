@@ -105,6 +105,7 @@ and would like to be listed here, let us know.
 - Daniel Holmberg
 - Erika Yashiro
 - Francesco Tabaro
+- Joakim Löfgren
 - Luis Amezcua
 - Mikael Djurfeldt
 - Mikko Heikkilä
