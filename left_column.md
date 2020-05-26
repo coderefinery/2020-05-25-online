@@ -111,17 +111,14 @@ The schedule is subject to change.
 
 
 **26 May (T)**
-- 9:00 - 11:30
+- 9:00 - 12:00
   [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
-  (Anne)
-- 11:30 - 12:00
-  [Collaborative distributed version control 1/2](https://coderefinery.github.io/git-collaborative/) (probably moved to tomorrow)
-  (Radovan)
+  (Anne, Radovan)
 
 
 **27 May (W)**
 - 9:00 - 12:00
-  [Collaborative distributed version control 2/2](https://coderefinery.github.io/git-collaborative/)
+  [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
   (Radovan, Bjørn)
 
 
