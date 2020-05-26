@@ -1,4 +1,6 @@
-
+---
+permalink: /hackmd-day2/
+---
 
 # Day 2
 
