@@ -108,7 +108,7 @@ https://coderefinery.github.io/git-collaborative/02-centralized/#centralized-wor
     * Yes, another step.
     * You can delete remote branches from your terminal with `git push origin --delete branchname`. What I often do is to go to GitHub and delete them there by clicking on a trashcan in the branches overview.
 
-* I deleted the feature branch on GitHub but it shows up on my computer when I do a “git branch -a”
+* I deleted the feature branch on GitHub but it shows up on my computer when I do a `git branch -a`
     * `git fetch --prune` should remove these.
     * Since git is decentralized, these views don't automatically update.
 
