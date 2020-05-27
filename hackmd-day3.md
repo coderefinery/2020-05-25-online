@@ -178,7 +178,7 @@ We continue with an example of going through this repository
   - yes we will prefer to clone the fork, since this is the repo you can write to
   - and we update forks typically via the local repository (I wish there was a more automatic way and always wondered why GitHub does not have simply a button to update forks)
 
-- 'git push origin "my-new-fork"' results in "remote: Invalid username or password"?
+- `git push origin "my-new-fork"` results in "remote: Invalid username or password"?
   - check what origin refers to with `git remote -v`, maybe you are trying to push to a repository which is not yours? Also the syntax is `git push whereto whichbranch`
     - origin path is correct, I tried now login in to Github.com with another browser with my creds and I cannot login there either. Possibly some login bug?
       - if origin is correct, then either the password is wrong or maybe you have two-factor auth set up and then you may prefer using ssh keys to authenticate pushes.
