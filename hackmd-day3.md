@@ -256,6 +256,7 @@ This quick lesson is about the social aspects of contributing to someone's proje
 
 * Maybe next time we could show how to do it firstly, then we redo it in our group. I think it is easy for following. This morning, I did not get most of lessons.
 
-- In our breakout rooms one person litterally monopolized all attention of the helper, systematically. That slowed down everything and significantly affected our sessions. It may be better, perhaps, to put absolute beginners together into a separate group and adapt the the training for them.
+- In our breakout rooms one person literally monopolized all attention of the helper, systematically. That slowed down everything and significantly affected our sessions. It may be better, perhaps, to put absolute beginners together into a separate group and adapt the the training for them.
+  - We will try to make things are more balanced in the future.  It's quite hard to learn to say no to someone, so this is always a concern.
 
 - Great and important exercises (\*\*\*\*\*)! Unfortunately not enough time to finish them during the time in the breakout rooms, we always ended with 70% or so. In addition, I managed to mess up the setup a bit as a helper. Clearer helper instructions in advance (for dummies) would have helped, because even this trivial setups could be messed up when doing it under time pressure while listening to the instructions & following the lesson & editing the hackmd :-(
