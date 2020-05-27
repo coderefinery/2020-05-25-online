@@ -244,6 +244,7 @@ This quick lesson is about the social aspects of contributing to someone's proje
 
 - The main reason I registered for this workshop was to know more about "Collaborative distributed version control" and learn the best practices through simple exercises. I get out of here really frustrated.
   - [name=Radovan] sorry to read this. I would love to hear what I/we can do to avoid this in future. Was it the presentation? The material? The exercises/examples? The timing? Speed?
+  - Please contact us to let us know why.  In particular, I'm wondering - was it too fast or too slow, or a different topic than expected?  Something else?
 
 - Feedback:
     - Pros:
