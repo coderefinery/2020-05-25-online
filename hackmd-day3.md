@@ -237,7 +237,7 @@ This quick lesson is about the social aspects of contributing to someone's proje
 
 * The examples with central->distributed were very clear, to improve: some were missunderstanding "examples" as lines that should have been executed. The remote upstream namely would benefit from different backround for "do this", and "read this". But I liked a lot.
 
-* The first part of the main session was good, although really fast and I am not sure those not familiadayr were all able understand.
+* The first part of the main session was good, although really fast and I am not sure those not familiar were all able understand.
 * The second part was really confusing and difficult to follow (Richard even intervened to ask what that was about) especially when the trainer went back & forth in the teaching material or did not share his terminal while typing.
 
 * A thorough recap next Tuesday at the start of the session about what we did today will be highly appreciated.
