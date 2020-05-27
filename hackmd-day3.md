@@ -1,5 +1,5 @@
 ---
-permalink: /hackmd-day1/
+permalink: /hackmd-day3/
 ---
 
 # day 3
