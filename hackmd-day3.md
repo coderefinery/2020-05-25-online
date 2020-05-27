@@ -112,7 +112,7 @@ https://coderefinery.github.io/git-collaborative/02-centralized/#centralized-wor
     * `git fetch --prune` should remove these.
     * Since git is decentralized, these views don't automatically update.
 
-* How do synchronise the outputs of "git branch -a” across all collaborators?
+* How do synchronise the outputs of `git branch -a` across all collaborators?
     * Everyone should fetch.  also see above question
 
 * What is the best way to make a new version of a repository if you don't want to merge the changes, but you want to make a new version of the code/experiment? Should you first copy it to a new repository or make a branch?
