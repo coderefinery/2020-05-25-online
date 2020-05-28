@@ -260,3 +260,5 @@ This quick lesson is about the social aspects of contributing to someone's proje
   - We will try to make things are more balanced in the future.  It's quite hard to learn to say no to someone, so this is always a concern.
 
 - Great and important exercises (\*\*\*\*\*)! Unfortunately not enough time to finish them during the time in the breakout rooms, we always ended with 70% or so. In addition, I managed to mess up the setup a bit as a helper. Clearer helper instructions in advance (for dummies) would have helped, because even this trivial setups could be messed up when doing it under time pressure while listening to the instructions & following the lesson & editing the hackmd :-(
+
+- Maybe next time we could try to let our teachers show how to do firstly, then we could redo them at ourselves group. I think it is easier to find problems which we do not understand and follow our lessons. Anyway, thank you very much for your lessons and materials. Now I have figured them out.
