@@ -32,7 +32,7 @@ back for updates.
 
 ### Live streaming
 
-See [right bottom →](#streaming-info)
+Yes, we are.  Streams available at <https://twitch.tv/coderefinery>, See [right bottom →](#streaming-info)
 
 
 ### Course goals and format
